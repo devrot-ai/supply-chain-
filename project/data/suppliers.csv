@@ -1,0 +1,7 @@
+supplier_id,product_id,cost_per_unit,delay_rate,reliability_score
+S1,P001,48,0.12,0.93
+S2,P001,44,0.34,0.55
+S3,P002,30,0.09,0.90
+S4,P002,27,0.22,0.74
+S5,P003,62,0.18,0.85
+S6,P003,58,0.36,0.48

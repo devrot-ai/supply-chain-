@@ -1,0 +1,7 @@
+warehouse_id,product_id,stock_level
+W1,P001,120
+W1,P002,80
+W1,P003,40
+W2,P001,55
+W2,P002,40
+W2,P003,25
